@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Park Pro</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_employee_registration">EmployeeRegistration</string>
+    <string name="title_activity_upload_parking_receipt">UploadParkingReceipt</string>
+    <string name="title_activity_admin_dashboard">AdminDashboard</string>
+    <string name="title_activity_employee_dashboard">EmployeeDashboard</string>
+    <string name="title_activity_add_employe">AddEmploye</string>
+</resources>
